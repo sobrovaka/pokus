@@ -1,0 +1,95 @@
+
+{
+"questions": [
+{
+"question": "Který z následujících panovníků byl otcem Marie Terezie?",
+"options": [
+"Josef II.",
+"František I. Štěpán Lotrinský",
+"Karel VI."
+],
+"correct_answer": "Karel VI."
+},
+{
+"question": "Jaké reformy zavedl Josef II. během svého panování?",
+"options": [
+"Zrušení nevolnictví a toleranční patent",
+"Zavedení absolutismu a cenzury",
+"Zvýšení daní a rozšíření vojenské služby"
+],
+"correct_answer": "Zrušení nevolnictví a toleranční patent"
+},
+{
+"question": "Které umělecké a kulturní období je spojeno s Habsburky a charakterizováno zdobeností a dramatičností?",
+"options": [
+"Renesance",
+"Baroko",
+"Gotika"
+],
+"correct_answer": "Baroko"
+},
+{
+"question": "Jaké období je známé jako ‚věk rozumu‘ a je spojené s reformami a vědeckým pokrokem?",
+"options": [
+"Romantismus",
+"Osvícenství",
+"Středověk"
+],
+"correct_answer": "Osvícenství"
+},
+{
+"question": "Kdo je považován za ‚učitele národů‘ a významného reformátora vzdělání v období Habsburků?",
+"options": [
+"Jan Amos Komenský",
+"Tomáš Garrigue Masaryk",
+"Karel IV."
+],
+"correct_answer": "Jan Amos Komenský"
+},
+{
+"question": "Jak se nazývala inovativní metoda výuky, kterou propagoval Jan Amos Komenský?",
+"options": [
+"Škola hrou",
+"Kritické myšlení",
+"Formální vzdělávání"
+],
+"correct_answer": "Škola hrou"
+},
+{
+"question": "Jaký byl typický životní styl obyvatel ve městech za vlády Habsburků?",
+"options": [
+"Většina obyvatel pracovala v zemědělství.",
+"Města byla centrem obchodu a řemesel.",
+"Lidé žili převážně z lovu a sběru."
+],
+"correct_answer": "Města byla centrem obchodu a řemesel."
+},
+{
+"question": "Jaký byl hlavní zdroj obživy obyvatel na vesnicích během habsburské éry?",
+"options": [
+"Lov a rybolov",
+"Zemědělství",
+"Průmyslová výroba"
+],
+"correct_answer": "Zemědělství"
+},
+{
+"question": "Jakým způsobem se Marie Terezie pokusila reformovat školství v Habsburské monarchii?",
+"options": [
+"Zavedla povinnou školní docházku",
+"Zrušila všechny školy",
+"Zavedla pouze církevní školy"
+],
+"correct_answer": "Zavedla povinnou školní docházku"
+},
+{
+"question": "Který z následujících výroků nejlépe popisuje barokní architekturu?",
+"options": [
+"Jednoduché a funkční",
+"Symetrické a klidné",
+"Zdobené a dramatické"
+],
+"correct_answer": "Zdobené a dramatické"
+}
+]
+}
